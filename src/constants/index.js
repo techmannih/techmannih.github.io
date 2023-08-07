@@ -1,16 +1,14 @@
 import {
-  bharat,
-  codding,
   github,
   linkedin,
-  oasis,
+
   people01,
   people02,
   people03,
   send,
   shield,
   star,
-  techfest,
+
   twitter,
   website
 } from "../assets";
@@ -113,65 +111,6 @@ import {
       link: "https://www.linkedin.com/in/techmannih/",
     },
   ];
-  
-  
-  
-  export const experiences = [
-    {
-      title: "Campus Ambassador Intern",
-      company_name: "Techfest,IIT Bombay",
-      icon: techfest,
-      iconBg: "#383E56",
-      date: "June 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full Stack Developer Intern",
-      company_name: "Bharat Intern",
-      icon: bharat,
-      iconBg: "#E6DEDD",
-      date: "June 2023 - July 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer & Designing Intern",
-      company_name: "Coding Saathi",
-      icon: codding,
-      iconBg: "#383E56",
-      date: "June 2023 - July 2023",
-      points: [
-        "Developing and maintaining web applications using Star.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    
-    {
-      title: "Web Developer & Designing Intern",
-      company_name: "Oasis Infobyte",
-      icon: oasis,
-      iconBg: "#E6DEDD",
-      date: "May 2023 - June 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-  ];
-  
   
   
 export const feedback = [
