@@ -10,7 +10,7 @@ const Stats = () => {
     >
       {stats.map((stat) => (
         <>
-        <div className="flex-row flex-wrap sm:mb-20 mb-6 animate-pulse"
+        <div className="flex-row flex-wrap  animate-pulse"
           
         >
           <h1 className="font-poppins font-normal xs:text-[50px] text-[25px] xs:leading-[36px] leading-[21px] text-gradient uppercase ml-3 ">

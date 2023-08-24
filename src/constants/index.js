@@ -22,10 +22,10 @@ import {
       id: "skills",
       title: "Skills",
     },
-    {
-      id: "experiences",
-      title: "Experience",
-    },
+    // {
+    //   id: "experiences",
+    //   title: "Experience",
+    // },
     {
       id: "projects",
       title: "Projects",
@@ -70,14 +70,14 @@ import {
     
   ];
   
-  export const statsss = [
-    {
+  // export const statsss = [
+  //   {
     
-      title: "Experiences",
+  //     title: "Experiences",
   
-    },
+  //   },
     
-  ];
+  // ];
   
   export const statss = [
     {
