@@ -44,7 +44,7 @@ function Footer(){
       
 
 
-<div className="flex flex-col mx-8">
+<div className="flex flex-col">
 
   <h1 className="font-bold text-[40px] text-center text-gradient">Get in touch</h1>
   <div className="flex flex-col justify-between mt-10 items-center">
