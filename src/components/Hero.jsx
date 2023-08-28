@@ -23,7 +23,7 @@ const Hero = () => {
         </div>
 
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          A buiding enthusiastic Full Stack Developer, passionate about Javascript development. Seeking to advance a grownig tech career as a Software Development Engineer in a competitive environment.
+          A enthusiastic Full Stack Developer, passionate about Javascript development. Seeking to advance a grownig tech career as a Software Development Engineer in a competitive environment.
         </p>
         <button className=" mt-4 rounded-md transition text-white border-white border-[2px] font-semibold hover:bg-white hover:text-black w-[100px] h-[40px] ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">Resume</button>
       </div>
