@@ -47,6 +47,12 @@ import techfest from "./techfest.png";
 import tesla from "./tesla.png";
 import twitter from "./twitter.svg";
 import website from "./website.png";
+import password from "./password.png";
+import temp from "./temp.png"
+import pootfolio from "./pootfolio.png";
+import calculator from "./calculator.png";
+import video from "./video.png"
+
 export {
   airbnb, apple,
   arrowUp, bharat, bill,
@@ -57,6 +63,6 @@ export {
   people03, photo, quotes, react,
   redux, robot,
   send,
-  shield, shopify, star, starbucks, tailwind, techfest, tesla, twitter, website
+  shield, shopify, star, starbucks, tailwind, techfest, tesla, twitter, website,calculator,temp,pootfolio,password, video
 };
 
