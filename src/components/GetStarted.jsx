@@ -8,7 +8,7 @@ const GetStarted = () => {
       className={`${styles.flexCenter} w-[190px] h-[200px] rounded-full  p-[2px] cursor-pointer animate `}
     >
 
-<img src={photo} className="mb-14 mt-16  rounded-full" />
+<img src={photo} className=" mt-16  rounded-full" />
     </div>
   );
 };
