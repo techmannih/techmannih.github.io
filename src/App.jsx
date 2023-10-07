@@ -23,7 +23,7 @@ const App = () => (
       </div>
     </div>
 
-    <div className={`bg-slate-950 ${styles.paddingX} ${styles.flexCenter}`}>
+    <div className={`bg-slate-950 ${styles.paddingX} ${styles.flexCenter} my-12` }>
       <div className={`${styles.boxWidth}`}>
         <Stats />
         <Business />
